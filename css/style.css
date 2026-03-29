@@ -1,0 +1,24 @@
+h1,h2,h3 {
+    font-family: fantasy;    
+    color: rgb(134, 8, 134);    
+}
+p,li,table, ul, li, input, label {
+    font-family:monospace;
+    font-size: x-large;
+    color: rgb(50, 66, 66);
+}
+label email{
+    color: aquamarine;
+}
+
+table,th,td {border: 1px solid rgb(0, 0, 0);}
+
+label[for="nome"], label[for="senha"],label[for="email"],.destaque, #Cambridge{        
+    color:  rgb(187, 50, 50);
+}
+
+
+
+a{
+   text-decoration: none;
+}
